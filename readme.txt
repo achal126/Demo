@@ -1,4 +1,7 @@
-ssioned
+Hyperledger Fabric: one of the blockchain projects within Hyperledger
+
+private and permissioned
+
 
 members are enrolled through a trusted membership provider
 
